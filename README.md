@@ -1,7 +1,7 @@
 # SDJ 
 ## Self-Described JSON
 
-What it is:
+##What it is:
 SDJ is a library that reads and creates ".sdj" files which are a subset of standard json/text files. 
 Unlike standard JSON, sdj files internalize self-description of the data which it contains.
 This allows for a extremely flexable data format that can describe, store, retrieve, and transmit nearly any type of data using the standard JSON format.
