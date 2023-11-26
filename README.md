@@ -23,7 +23,7 @@ Ideally only SDJ language implementations (JS, Java*, Python*) should provided u
 
 ### What it Does:
 
-- TypeScript/JavaScript implementation of SJK JSON schema
+- TypeScript/JavaScript implementation/testing/instantiation of SDJ file type/JSON schema
 - Creates JS data objects and provides TS data reference for data elements
 - Allows easy hydration/de-hydration between data/class/immutable states
 - Provides easily accessible JS data objects and structure
