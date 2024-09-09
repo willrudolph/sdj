@@ -13,11 +13,11 @@ to store provide example SDJ files.
 
 Initial Development Goals:
 - finalization and implementation of initial sdj-esm 0.0.7 (complete!)
-- deploy and make available sdj-esm as public/unscoped on npmjs (in-progress)
-- parallel sdj-edit development (in-progress)
+- deploy and make available sdj-esm as public/unscoped on npmjs (complete! [v0.3.2 available](https://www.npmjs.com/package/sdj-esm))
+- parallel sdj-editor development (in-progress)
 - increase and expand test coverage (in-progress)
-- provide a variety of sdj example files (future)
-- sync & correspond sdj-edit development w/sdj-esm (future)
+- provide a variety of sdj example files (in-progress)
+- sync & correspond sdj-editor development w/sdj-esm (in-progress)
 - finalize sdj-edit and lock down (future)
 - build SDJ libraries for other languages (after JS/TS is stable and complete)
 
